@@ -1,4 +1,8 @@
 {
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "prompt-sync": "^4.2.0"
+  },
   "name": "repo2",
   "version": "1.0.0",
   "main": "index.js",
@@ -8,7 +12,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node ./src/lab025.js" 
+    "start": "node ./src/es_v2.js" 
   },
   "repository": {
     "type": "git",
